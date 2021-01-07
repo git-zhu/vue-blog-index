@@ -1,10 +1,6 @@
-# EsunR-Blog 通用网站导航
+# Zhu 通用网站导航
 
 ## About | 关于
-
-![](https://img.shields.io/badge/Base-Vue2.2-brightgreen.svg)
-![](https://img.shields.io/badge/Build-Vue--Cli3-orange.svg)
-![](https://img.shields.io/badge/Installer-Npm/Yarn-red.svg)
 
 这是一个基于 Vue 的通用网站导航页面，你可以将其放在个人网站的首页作为您博客的引导页面或者是您其他项目的引导页。兼容了多平台的显示效果（基于Flex布局），方便游客浏览您的个人网站，背景图来自于Bing每日图片。
 
@@ -42,7 +38,7 @@ const SERVE = false; // 是否使用线上服务器
 
 const HOST = ""; // 线上服务器地址，如果不使用请留空
 
-const BLOG_NAME = "Zhu-Blog"; // 个人网站名字
+const BLOG_NAME = "Blog"; // 个人网站名字
 
 const BLOG_URL = "https://blog.gofor.live"; // 个人网站链接（请填写完整链接）
 
